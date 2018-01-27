@@ -1,0 +1,16 @@
+{
+	"name": "xShoot",
+	"version": "1.0.0",
+	"keywords": [
+		"util",
+		"functional",
+		"server",
+		"client",
+		"browser"
+	],
+	"author": "draker",
+	"contributors": [],
+	"dependencies": {
+		"phaser-ce": "^2.10.0"
+	}
+}
